@@ -14,6 +14,7 @@
 # Other
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=prisma.vscode-graphql)
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
