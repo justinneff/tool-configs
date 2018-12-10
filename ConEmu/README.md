@@ -1,14 +1,13 @@
-# Setup
+# ConEmu
 
-## Install Custom Fonts
+## Installation
 1. Download latest Meslo fonts from [Nerd Fonts](https://nerdfonts.com)
 
 2. Install `Meslo LG S DZ Regular Nerd Font Complete Mono.otf` font
 
-## ConEmu Installation
-1. Follow the Prerequisites and Installation steps for the [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) project
+3. Follow the Prerequisites and Installation steps for the [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) project
 
-2. Append the following lines to your PowerShell Profile in place of the code in the oh-my-posh project. (This fixes the missing icons for GitHub branch statuses.)
+4. Append the following lines to your PowerShell Profile in place of the code in the oh-my-posh project. (This fixes the missing icons for GitHub branch statuses.)
 ```
 Import-Module posh-git
 Import-Module oh-my-posh
@@ -21,7 +20,7 @@ $ThemeSettings.GitSymbols.BranchIdenticalStatusToSymbol = [char]::ConvertFromUtf
 $ThemeSettings.GitSymbols.BranchUntrackedSymbol = [char]::ConvertFromUtf32(0x279A)
 ```
 
-3. Import the `ConEmu.xml` from this repo into your ConEmu editor.
+5. Import the `ConEmu.xml` from this repo into your ConEmu editor.
 
 ## Visual Studio Code Terminal Setup
 1. Clone the [powerline/fonts](https://github.com/powerline/fonts) repo
