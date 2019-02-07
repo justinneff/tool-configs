@@ -1,9 +1,12 @@
 {
-    "editor.tabSize": 2,
     "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
     "git.autofetch": true,
     "javascript.updateImportsOnFileMove.enabled": "never",
+    "terminal.integrated.fontFamily": "'Meslo LG S DZ for Powerline'",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "tslint.autoFixOnSave": true,
     "typescript.updateImportsOnFileMove.enabled": "never",
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Cobalt2",
