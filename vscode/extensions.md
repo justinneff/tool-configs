@@ -18,6 +18,7 @@
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=prisma.vscode-graphql)
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
+- [Handlebars Preview](https://marketplace.visualstudio.com/items?itemName=chaliy.handlebars-preview)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.reactsnippets)
 - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
